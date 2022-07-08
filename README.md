@@ -7,4 +7,3 @@ I’m not sure yet on what I would choose for collaborating but I would be open 
 <!---
 d3vastat/d3vastat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
